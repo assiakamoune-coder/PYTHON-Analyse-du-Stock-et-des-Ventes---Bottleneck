@@ -90,13 +90,6 @@ Ce projet fournit une analyse complète et approfondie des stocks et des ventes 
 
 ---
 
-## 🚀 Comment Utiliser
-
-### Prérequis
-```bash
-pip install pandas plotly openpyxl jupyter
-```
-
 ### Consulter les résultats
 - Visualisations dans le notebook
 - Présentation PowerPoint pour un résumé executive
