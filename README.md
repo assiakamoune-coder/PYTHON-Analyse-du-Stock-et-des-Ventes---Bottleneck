@@ -137,7 +137,7 @@ Ce projet fournit une analyse complète et approfondie des stocks et des ventes 
 
 ---
 
-[**Résultat final.xlsx**](./df_merge_sorted.xlsx)  - RÉSULTAT FINAL 
+[**df_merge_sorted.xlsx**](./df_merge_sorted.xlsx)  - RÉSULTAT FINAL 
 - **Taille:** 1.3 MB
 - **Lignes:** 9183 observations
 - **Colonnes:** 41 (fusion complète + calculs)
