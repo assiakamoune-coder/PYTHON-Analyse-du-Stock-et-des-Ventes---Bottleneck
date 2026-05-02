@@ -163,7 +163,7 @@ Ce projet fournit une analyse complète et approfondie des stocks et des ventes 
 - `part_quantite_cum` - Cumul % (pour analyse ABC)
 
 ---
-
+```
 ## 📈 Flux de Données
 
 ```
@@ -199,7 +199,6 @@ Ce projet fournit une analyse complète et approfondie des stocks et des ventes 
             ├─ Analyses statistiques
             ├─ Détection d'anomalies
             └─ Recommandations stratégiques
-
 
 
 ### Consulter les résultats
