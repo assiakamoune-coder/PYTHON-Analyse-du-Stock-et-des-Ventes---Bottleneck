@@ -91,7 +91,7 @@ Ce projet fournit une analyse complète et approfondie des stocks et des ventes 
 ---
 ## 📊 Guide des Fichiers de Données
 
-### 🔷 **erp.xlsx** - Données ERP Interne
+- [**erp.xlsx**](./erp.xlsx)- Données ERP Interne
 - **Taille:** 38 KB
 - **Lignes:** 825 produits
 - **Colonnes:** 6 (product_id, price, stock_quantity, stock_status, etc.)
