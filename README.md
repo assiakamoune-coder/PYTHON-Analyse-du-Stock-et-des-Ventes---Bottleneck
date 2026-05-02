@@ -116,7 +116,7 @@ Ce projet fournit une analyse complète et approfondie des stocks et des ventes 
 - **Utilisation:** Source pour les ventes, avis clients, métadonnées produits
 
 **À savoir:**
-- Contient à la fois des produits ET des pièces jointes (images)
+- Contient à la fois des produits ET des pièces jointes 
 - Seuls ~1430 enregistrements sont des produits réels
 - Les colonnes de contenu (post_content) sont vides
 - Les avis (average_rating) ne sont disponibles que pour ~1430 produits
@@ -126,7 +126,7 @@ Ce projet fournit une analyse complète et approfondie des stocks et des ventes 
 - [**liaison.xlsx**](./liaison.xlsx) - Table de Mapping
 - **Taille:** 22 KB
 - **Lignes:** 825 correspondances
-- **Colonnes:** 2 (product_id ERP ↔ id_web WooCommerce)
+- **Colonnes:** 2 (product_id ERP ↔ id_web )
 - **Format:** Simple mapping 1-to-1
 - **Utilisation:** Clé de jointure entre ERP et Web
 
