@@ -4,18 +4,12 @@
 
 Ce projet fournit une analyse complète et approfondie des stocks et des ventes du site Bottleneck. Il utilise **Python** et **Jupyter Notebook** pour explorer, nettoyer et analyser des données multi-sources, identifier les anomalies et générer des insights exploitables.
 
----
-
-## 📋 Contenu du Projet
-
-### Fichiers Livrables
-
-| Fichier | Type | Description |
-|---------|------|-------------|
-| **Kamoune_Assia_1_notebook_122025.ipynb** | Notebook Jupyter | Analyse détaillée avec code Python, visualisations et résultats |
-| **Kamoune_Assia_2_presentation_122025.pptx** | Présentation | Présentation executive avec findings et recommandations |
+**Objectif principal**: Fiabiliser les données de Bottleneck avant intégration ERP
+**Données analysées** : Ventes, stocks, produits
+**Enjeux** : Pilotage du CA, optimisation des stocks, conformité réglementaire
 
 ---
+
 
 ## 🔍 Structure de l'Analyse
 
@@ -103,12 +97,6 @@ Ce projet fournit une analyse complète et approfondie des stocks et des ventes 
 pip install pandas plotly openpyxl jupyter
 ```
 
-### Lancer l'analyse
-1. Ouvrir le notebook : `Kamoune_Assia_1_notebook_122025.ipynb`
-2. Préparer les fichiers source (`web.xlsx`, `erp.xlsx`, `liaison.xlsx`)
-3. Exécuter les cellules du notebook de haut en bas
-4. Consulter les graphiques et analyses au fil de l'exécution
-
 ### Consulter les résultats
 - Visualisations dans le notebook
 - Présentation PowerPoint pour un résumé executive
@@ -156,12 +144,6 @@ Ce projet démontre :
 
 ---
 
-## 👤 Auteur
-
-**Assia Kamoune**  
-Analyste Data | Décembre 2025
-
----
 
 ## 📝 Notes
 
@@ -179,7 +161,4 @@ Analyste Data | Décembre 2025
 - [Jupyter Notebook Guide](https://jupyter.org/)
 - [Stack Overflow](https://stackoverflow.com/) - Pour trouver des solutions
 
----
-
-**Dernière mise à jour:** Décembre 2025
 
