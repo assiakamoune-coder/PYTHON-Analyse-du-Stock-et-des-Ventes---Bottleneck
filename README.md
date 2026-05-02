@@ -1,4 +1,4 @@
-# 📊 Analyse du Stock et des Ventes - Site Bottleneck
+# 📊 Analyse du Stock et des Ventes - Bottleneck
 
 ## 🎯 Objectif
 
