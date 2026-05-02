@@ -113,8 +113,8 @@ L'analyse permet de répondre à des questions critiques :
 
 ### 📌 Fichiers Inclus
 
-- ✅ **Kamoune_Assia_1_notebook_122025.ipynb** - [Télécharger](#)
-- ✅ **Kamoune_Assia_2_presentation_122025.pptx** - [Télécharger](#)
+- [**Notebook Jupyter**](./Kamoune_Assia_1_notebook_122025.ipynb) - Analyse détaillée avec code Python, visualisations et résultats
+-  [**Présentation**](./Kamoune_Assia_2_presentation_122025.pptx) - Présentation executive avec findings et recommandations
 
 ### 📊 Outputs Générés
 
