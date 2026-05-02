@@ -200,6 +200,8 @@ Ce projet fournit une analyse complète et approfondie des stocks et des ventes 
             ├─ Détection d'anomalies
             └─ Recommandations stratégiques
 
+
+
 ### Consulter les résultats
 - Visualisations dans le notebook
 - Présentation PowerPoint pour un résumé executive
